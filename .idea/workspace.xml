@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f3faea1-42dc-46fe-a660-6965c15edac2" name="Changes" comment="Its a me, mario">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/java/CourseProgramme.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CourseProgramme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/CourseProgramme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Lecturer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Lecturer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Module.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Module.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/java/CourseProgrammeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/java/CourseProgrammeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/java/LecturerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/java/LecturerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/java/ModuleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/java/ModuleTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +75,7 @@
       <updated>1665738322709</updated>
       <workItem from="1665738325771" duration="5156000" />
       <workItem from="1665744789553" duration="6037000" />
-      <workItem from="1666012278819" duration="1544000" />
+      <workItem from="1666012278819" duration="1694000" />
     </task>
     <task id="LOCAL-00001" summary="Its a me, mario">
       <created>1665748606472</created>
@@ -91,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665748606472</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Its a me, mario">
+      <created>1666023580667</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666023580667</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

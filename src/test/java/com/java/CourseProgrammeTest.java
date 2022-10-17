@@ -1,6 +1,6 @@
 package com.java;
 
-import org.example.CourseProgramme;
+//import org.example.CourseProgramme;
 import org.joda.time.LocalDate;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
@@ -10,5 +10,5 @@ import org.junit.jupiter.api.Test;
 
 public class CourseProgrammeTest {
 
-    private CourseProgramme cp1 = new CourseProgramme();
+//    private CourseProgramme cp1 = new CourseProgramme();
 }
