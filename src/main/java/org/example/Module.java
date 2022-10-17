@@ -18,16 +18,17 @@ public class Module {
     public int age, id;
     public List<Student> sList = new ArrayList<Student>();
 
-    void createModule(String name, int id, String dob, String mods)
-    {
-        this.mName=name;
-        this.id = id;
+    public Module(String mName, String dob, String uName, String modules, int age, int id, List<Student> sList) {
+        this.mName = mName;
         this.dob = dob;
-
-        this.modules = mods;
+        this.uName = uName;
+        this.modules = modules;
+        this.age = age;
+        this.id = id;
+        this.sList = sList;
     }
 
-    public String getmName() {
+    public String getMName() {
         return mName;
     }
 

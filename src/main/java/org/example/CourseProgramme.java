@@ -18,7 +18,13 @@ public class CourseProgramme {
     List<Module> mList = new ArrayList<Module>();
     List<Student> eStudentList = new ArrayList<Student>();
 
-
+    public CourseProgramme(String cName, LocalDate sDate, LocalDate eDate, List<Module> mList, List<Student> eStudentList) {
+        this.cName = cName;
+        this.sDate = sDate;
+        this.eDate = eDate;
+        this.mList = mList;
+        this.eStudentList = eStudentList;
+    }
 
     public String getcName() {
         return cName;

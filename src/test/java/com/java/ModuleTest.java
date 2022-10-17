@@ -1,4 +1,5 @@
 package com.java;
 
-public class ModuleTest {
+public class ModuleTest
+{
 }

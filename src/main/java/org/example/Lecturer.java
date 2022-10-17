@@ -16,7 +16,7 @@ public class Lecturer {
     public String name, dob, uName, modules;
     public int age, id;
 
-    void createLecturer(String fname, int age, String dob, int id, String mods)
+    public Lecturer(String fname, int age, String dob, int id, String mods)
     {
         this.name=fname;
         this.age = age;
