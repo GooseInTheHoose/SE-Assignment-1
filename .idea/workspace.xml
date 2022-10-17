@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f3faea1-42dc-46fe-a660-6965c15edac2" name="Changes" comment="Its a me, mario" />
+    <list default="true" id="1f3faea1-42dc-46fe-a660-6965c15edac2" name="Changes" comment="Its a me, mario">
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +74,7 @@
       <updated>1665738322709</updated>
       <workItem from="1665738325771" duration="5156000" />
       <workItem from="1665744789553" duration="6037000" />
-      <workItem from="1666012278819" duration="2153000" />
+      <workItem from="1666012278819" duration="2595000" />
     </task>
     <task id="LOCAL-00001" summary="Its a me, mario">
       <created>1665748606472</created>
@@ -95,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666023737880</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Its a me, mario">
+      <created>1666024157286</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666024157286</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
